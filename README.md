@@ -13,7 +13,7 @@
 
 <img width="400" align="right" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isCwaWZ36UOk/v0/-999x-999.gif">
 
-- 🌱 I’m currently learning python **cybersecurity**
+- 🌱 I’m currently learnings *web development*
 
 - 💬 Ask me about **python**
 
