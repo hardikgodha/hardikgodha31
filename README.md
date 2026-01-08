@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learnings *web development*
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **hardikgodha199@gmail.com**
 
